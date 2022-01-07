@@ -1,4 +1,4 @@
-#Programa que elegira un numero random entre un rango de numeros y el usuario tratara de adivinar el programa.
+#Programa que elegira un numero random entre un rango de números y el usuario tratara de adivinar el número.
 
 import random
 
